@@ -1,0 +1,42 @@
+Current username is: student
+Current directory is : /home/student/Desktop/SBU/CSE 337/Homework/Homework 3
+Home directory is : /home/student
+
+— 5 most recently modified directories with rwxrwxrwx —
+total 2.3M
+-rw-rw-r-- 1 student student  201 Apr 21 17:50 q4_p1.txt
+-rwxrwxrwx 1 student student  503 Apr 21 17:49 q4_p1.sh
+-rwxrwxrwx 1 student student  359 Apr 21 16:58 q4_p5.sh
+-rwxrwxrwx 1 student student  204 Apr 21 14:57 q4_p3.sh
+-rwxrwxrwx 1 student student  178 Apr 21 14:19 q4_p4.sh
+
+— Files in last 30-60 minutes
+./q4_p5.sh
+
+======================================================================
+Current username is: student
+Current directory is : /home/student/Desktop
+Home directory is : /home/student
+
+— 5 most recently modified directories with rwxrwxrwx —
+total 8.0K
+drwxrwxr-x 5 student student 4.0K Feb 12 18:42 SBU
+-rwxr-xr-x 1 student student  254 Aug 30  2017 spotify.desktop
+
+— Files in last 30-60 minutes
+./SBU/CSE 337/Homework/Homework 3/q4_p5.sh
+
+======================================================================
+Current username is: student
+Current directory is : /home/student/A4tmp
+Home directory is : /home/student
+
+— 5 most recently modified directories with rwxrwxrwx —
+total 12K
+-rw-rw-r-- 1 student student 1.8K Apr 21 10:55 400-600.txt
+-rw-rw-r-- 1 student student  877 Apr 21 10:55 100-200.txt
+-rw-rw-r-- 1 student student   58 Apr 21 10:11 logerror.txt
+
+— Files in last 30-60 minutes
+
+======================================================================
